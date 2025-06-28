@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1127334464",
+    "firebase_url": "https://proyecto-e6f92-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-e6f92",
+    "storage_bucket": "proyecto-e6f92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1127334464:android:bddbeb996a8eba819a95a5",
+        "android_client_info": {
+          "package_name": "upvictoria.pm_may_ago_2025.iti_271415.pg1u2_eq03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACj0Qe5wtA6lOycdKHjxE1n2ULDACc9Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

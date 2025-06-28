@@ -1,0 +1,4 @@
+/home/ubuntu/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/ubuntu/AndroidStudioProjects/Z_U2_271415_E_03/sdk/.cxx/Debug/46602x4z/arm64-v8a \
+  opencv_jni_shared
