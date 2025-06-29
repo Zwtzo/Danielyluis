@@ -1,5 +1,5 @@
 {
-  "installationFolder": "/home/ubuntu/AndroidStudioProjects/Z_U2_271415_E_03/sdk/build/intermediates/prefab_package/debug/prefab",
+  "installationFolder": "/home/someguy/Documentos/Proyectos/Danielyluis/sdk/build/intermediates/prefab_package/debug/prefab",
   "gradlePath": ":sdk",
   "packageInfo": {
     "packageName": "sdk",
@@ -8,7 +8,7 @@
     "modules": [
       {
         "moduleName": "opencv_jni_shared",
-        "moduleHeaders": "/home/ubuntu/AndroidStudioProjects/Z_U2_271415_E_03/sdk/native/jni/include",
+        "moduleHeaders": "/home/someguy/Documentos/Proyectos/Danielyluis/sdk/native/jni/include",
         "moduleExportLibraries": [],
         "abis": []
       }
